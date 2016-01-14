@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -25,13 +25,28 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="leo.20151019204601.1"><vh>@edit 2015cphww2.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160115014820.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160115014826.1"><vh>@edit 2015cpnote2.md</vh></v>
+<v t="leo.20160115014339.1"><vh>@edit 40423241_cp_w1.md</vh></v>
+<v t="leo.20160115014345.1"><vh>@edit 40423241_cp_w2.md</vh></v>
+<v t="leo.20160115014351.1"><vh>@edit 40423241_cp_w3.md</vh></v>
+<v t="leo.20160115014356.1"><vh>@edit 40423241_cp_w4.md</vh></v>
+<v t="leo.20160115014401.1"><vh>@edit 40423241_cp_w5.md</vh></v>
+<v t="leo.20160115014406.1"><vh>@edit 40423241_cp_w6.md</vh></v>
+<v t="leo.20160115014414.1"><vh>@edit 40423241_cp_w7.md</vh></v>
+<v t="leo.20160115014420.1"><vh>@edit 40423241_cp_w8.md</vh></v>
+<v t="leo.20160115014425.1"><vh>@edit 40423241_cp_w11.md</vh></v>
+<v t="leo.20160115014430.1"><vh>@edit 40423241_cp_w12.md</vh></v>
+<v t="leo.20160115014435.1"><vh>@edit 40423241_cp_w13.md</vh></v>
+<v t="leo.20160115014441.1"><vh>@edit 40423241_cp_w14.md</vh></v>
+<v t="leo.20160115014447.1"><vh>@edit 40423241_cp_w15.md</vh></v>
+<v t="leo.20160115014453.1"><vh>@edit 40423241_cp_w16.md</vh></v>
+<v t="leo.20160115014500.1"><vh>@edit 40423241_cp_w17.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160115014523.1"><vh>@edit 40423241_cp_w1_p.html</vh></v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
